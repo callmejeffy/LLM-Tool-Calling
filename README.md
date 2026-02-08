@@ -54,7 +54,7 @@ project/
 ├── index.html
 ├── llm_logic.py
 ├── main.py
-├── requirements.txt
+├── pyproject.toml
 └── README.md
 ```
 
@@ -92,4 +92,6 @@ This project is designed as a learning bridge between:
 > "I know Python" → "I can build real AI apps"
 
 It focuses on understanding flow instead of complexity.
+
+A Terminal version of this app was also included
 
