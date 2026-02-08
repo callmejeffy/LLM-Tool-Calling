@@ -95,9 +95,10 @@ It focuses on understanding flow instead of complexity.
 
 A Terminal version of this app was also included
 
-## Screenshot
+## Screenshots
 
 <img width="702" height="888" alt="Flight Price Assistant" src="https://github.com/user-attachments/assets/ccc99de3-50ae-47c6-b0b7-3984d4c389b8" />
 
+<img width="858" height="587" alt="Flight Price Assistant Server" src="https://github.com/user-attachments/assets/b766adc9-719d-4a6e-9f17-45e06a19445f" />
 
 
