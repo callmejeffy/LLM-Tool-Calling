@@ -95,7 +95,7 @@ It focuses on understanding flow instead of complexity.
 
 A Terminal version of this app was also included
 
-## Screenhot
+## Screenshot
 
 <img width="702" height="888" alt="Flight Price Assistant" src="https://github.com/user-attachments/assets/ccc99de3-50ae-47c6-b0b7-3984d4c389b8" />
 
