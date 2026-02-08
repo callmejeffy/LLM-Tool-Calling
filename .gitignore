@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Secrets and Credentials
+.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Personal Notes
+Notes/
